@@ -1,3 +1,5 @@
+[![compile](https://github.com/OblivionAXiS/autovalidate/actions/workflows/actions.yml/badge.svg)](https://github.com/OblivionAXiS/autovalidate/actions/workflows/actions.yml)
+
 # autovalidate
 
 I like that app too!
